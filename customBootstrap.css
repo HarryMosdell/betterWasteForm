@@ -1,0 +1,105 @@
+@media  ( max-width: 575px)  {
+
+    
+    .w-xs-100 {
+      
+         width:100%!important;
+      }      
+
+      .w-xs-75 {
+      
+         width:75%!important;
+         background-color:red!important;
+      }     
+
+      .w-xs-50 {
+      
+         width:50%!important;
+      }     
+
+      .w-xs-25 {
+      
+          width:25%!important;
+       }      
+
+    
+    }
+
+
+    @media  ( min-width: 575px)  {
+
+      .w-sm-100 {
+      
+         width:100%!important;
+      }      
+
+      .w-sm-75 {
+      
+         width:75%!important;
+         background-color:red!important;
+      }     
+
+      .w-sm-50 {
+      
+         width:25%!important;
+      }     
+
+      .w-sm-25 {
+      
+          width:25%!important;
+       }   
+
+    
+    }
+
+
+    @media  ( min-width: 780px)  {
+
+      .w-md-100 {
+      
+         width:100%!important;
+         background-color:pink!important;
+      }      
+
+      .w-md-75 {
+      
+         width:75%!important;
+         background-color:red!important;
+      }     
+
+      .w-md-50 {
+      
+         width:25%!important;
+      }     
+
+      .w-md-25 {
+   
+          width:25%!important;
+          
+       }   
+
+    
+    }
+
+  .pink {
+      
+    background-color:pink ;
+ }   
+ 
+ .navy {
+ 
+    background-color:navy; 
+ }   
+
+ .ticketSellerContentClass {
+     
+    background-color:red!important;
+    width:auto!important;
+ } 
+ 
+ #f .s:hover {
+   background-color: blue;
+   color: white;
+ }
+
+ 
